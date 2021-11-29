@@ -1,4 +1,3 @@
-
 #built application files
 *.apk
 *.ap_
@@ -44,3 +43,4 @@ output.json
 obj/
 .externalNativeBuild
 /app/production/release/output-metadata.json
+© 2021 GitHub, Inc.
