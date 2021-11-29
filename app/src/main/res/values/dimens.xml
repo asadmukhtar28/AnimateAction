@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="parent_height">60dp</dimen>
+    <dimen name="parent_width">180dp</dimen>
+    <dimen name="parent_max_height">400dp</dimen>
+</resources>
