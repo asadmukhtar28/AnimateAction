@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimateAction</string>
+    <string name="interest_anim">InterestsAnim</string>
+    <string name="profile_anim">ProfilesAnim</string>
+    <string name="notification_anim">NotificationsAnim</string>
+    <string name="preference_anim">PreferencesAnim</string>
+</resources>
