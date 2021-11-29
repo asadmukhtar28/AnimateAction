@@ -2,5 +2,5 @@
 <resources>
     <dimen name="parent_height">60dp</dimen>
     <dimen name="parent_width">180dp</dimen>
-    <dimen name="parent_max_height">400dp</dimen>
+    <dimen name="parent_max_height">500dp</dimen>
 </resources>
